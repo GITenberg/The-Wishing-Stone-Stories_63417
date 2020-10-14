@@ -1,5 +1,8 @@
 _repo: The-Wishing-Stone-Stories_63417
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63417-h/images/cover.jpg
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/717
     wikipedia: https://en.wikipedia.org/wiki/Thornton_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63417#The-Wishing-Stone-Stories
 gutenberg_issued: '2020-10-09'
 gutenberg_type: Text
 identifiers:
